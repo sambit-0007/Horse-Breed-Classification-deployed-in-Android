@@ -28,5 +28,5 @@ All the images are not of the same size, and neural networks often expect images
   passed a image through the model to predict the breed of the horse.
 
 ##### Reload the page to play the below gif.
-  <img src="horse breed classifier.gif" title='Horse Breed Classifier' width="750" align="center">
+  <img src="horse breed classifier.gif" title='Horse Breed Classifier' width="250" align="center">
 
